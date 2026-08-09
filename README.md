@@ -17,3 +17,10 @@ These perform classification and FDI prediction as mentioned in the paper
 ## Evaluation
 The evaluation.py file verifies the observed method. Here, the predicted attack vector and the corresponding control synthesis are applied to observe system response.
 
+## Contributors
+Below are the contributors listed in alphabetical order:
+Aravind Seshadri
+Kapu Nirmal Joshua
+Raghav Shukla
+Sumay Avi
+Tanmay Purohit
